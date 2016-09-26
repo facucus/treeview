@@ -8,7 +8,7 @@ Configuration files:
 - `.babelrc`
 - `mocha.opts`
 - `webpack.config.js`
-- `.eslintrc` 
+- `.eslintrc`
 
 ## Instructions
 
@@ -34,4 +34,4 @@ npm test
 ## Requirements
 You need to have installed **node.js** on your computer. You can download it from node.js Web site.
 
-https://nodejs.org/es/
+https://nodejs.org/
