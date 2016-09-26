@@ -1,0 +1,24 @@
+.listItem {
+  list-style-type:square;
+}
+
+.nodeItem {
+  color: #409fd0;
+  cursor: pointer;
+}
+
+.nodeItemDown::after,
+.nodeItemUp::after {
+  font-size: 10px;
+  margin-left: 5px;
+}
+
+.nodeItemDown::after {
+  content: "▼";
+  display: inline-block;
+}
+
+.nodeItemUp::after {
+  content: "▶";
+  display: inline-block;
+}
